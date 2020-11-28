@@ -1,4 +1,4 @@
-# Indian Sign Language
+# Indian Sign Language 
 Technology has the power to do many things, and changing the world is one of them. And right now, there is an opportunity for us to help verbally challenged people to communicate with the common people. We recognise that technology alone cannot fix everything but technology can help bridge the gaps. This project is an effort to create solutions to address the challenges faced by verbally challenged people on a daily basis.
 
 ## Goal for this Project
